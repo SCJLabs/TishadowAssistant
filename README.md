@@ -7,8 +7,14 @@ Requirements:
 * TiShadow. Get it here: http://tishadow.yydigital.com/
 
 
+
 Usage:
 * Run "tishadow server" in the command line and minimize its window.
-* Place the application in the root of your titanium project then run it from there. It is minimized to system tray.
+* Place the application in the root of your titanium project then run it from there.
 * Code in Titanium/Appcelerator Studio or your favorite code editor as normal, save your project
 * Press ALT+S to deploy to TiShadow connected devices.
+
+
+Notes:
+* The application gets minimized when it launches.
+* A pop up notification will show the results of tishadow run command.
