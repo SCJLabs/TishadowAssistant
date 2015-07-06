@@ -1,0 +1,28 @@
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe.config
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.pdb
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.xml
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.Form1.resources
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.Resources.resources
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.vbproj.GenerateResource.Cache
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.exe
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.xml
+c:\users\sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.pdb
+C:\Users\Sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe.manifest
+C:\Users\Sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.application
+C:\Users\Sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.exe.manifest
+C:\Users\Sherman\documents\visual studio 2013\Projects\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.application
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe.config
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.exe
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.xml
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.pdb
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe.manifest
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.application
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.exe
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.pdb
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TiShadowAssistant.xml
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.Form1.resources
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.Resources.resources
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.vbproj.GenerateResource.Cache
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.exe.manifest
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.application

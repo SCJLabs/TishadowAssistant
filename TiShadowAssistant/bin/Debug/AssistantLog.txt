@@ -1,0 +1,1 @@
+[ERROR] Script must be run within a Titanium project.
