@@ -70,7 +70,7 @@ Public Class frm_main
     End Sub
 
     Public Sub startupMessage()
-        NotifyIcon1.ShowBalloonTip(1000, "Tishadow Assistant Running For Project:", Application.StartupPath, ToolTipIcon.Info)
+        NotifyIcon1.ShowBalloonTip(1000, "Tishadow Assistant Running For Project:", Application.StartupPath & vbNewLine & vbNewLine & "Press ALT-S to deploy to Tishadow connected devices", ToolTipIcon.Info)
         Me.Hide()
     End Sub
 
@@ -89,7 +89,7 @@ Public Class frm_main
                     Try
                         Dim pro = Process.Start("cmd", "/c tishadow run > TishadowAssistantLog.txt")
                         pro.WaitForExit()
-                        Dim result As String = File.ReadAllText("Tishadow.txt")
+                        Dim result As String = File.ReadAllText("TishadowAssistantLog.txt")
                         NotifyIcon1.ShowBalloonTip(1000, "Tishadow Assistant [Run]", result, ToolTipIcon.Info)
                     Catch ex As Exception
                         NotifyIcon1.ShowBalloonTip(1000, "Tishadow Assistant Error", ex.Message, ToolTipIcon.Info)
