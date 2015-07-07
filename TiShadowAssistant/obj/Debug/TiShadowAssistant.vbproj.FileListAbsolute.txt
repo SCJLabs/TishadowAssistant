@@ -18,6 +18,7 @@ F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistan
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TishadowAssistant.exe
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TishadowAssistant.pdb
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\bin\Debug\TishadowAssistant.xml
+F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.vbprojResolveAssemblyReference.cache
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TishadowAssistant.frm_main.resources
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TishadowAssistant.Resources.resources
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.vbproj.GenerateResource.Cache
@@ -26,4 +27,3 @@ F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistan
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TishadowAssistant.exe
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TishadowAssistant.xml
 F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TishadowAssistant.pdb
-F:\Sync\GoogleDrive\Dev\Desktop\Visual Studio\TiShadowAssistant\TiShadowAssistant\obj\Debug\TiShadowAssistant.vbprojResolveAssemblyReference.cache

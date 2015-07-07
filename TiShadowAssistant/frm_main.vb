@@ -41,12 +41,8 @@ Public Class frm_main
         Dim result As String = File.ReadAllText("TishadowAssistantLog.txt")
 
 
-        If result.Length = 0 Then
-            'Node.js not detected, else it should throw an error
-            MsgBox("Node.js was not detected. Click OK to open the download page, install it then re-run Tishadow Assistant.", MsgBoxStyle.Critical)
-            Process.Start("https://nodejs.org/")
-            Application.Exit()
-        ElseIf result.Contains("Beginning Build Process") Then
+        
+        If result.Contains("Beginning Build Process") Then
             'All systems go
         ElseIf Not result.Contains("[ERROR]") Then
             'If user can not get this error then they don't have tishadow installed
