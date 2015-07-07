@@ -41,7 +41,12 @@ Public Class frm_main
         Dim result As String = File.ReadAllText("TishadowAssistantLog.txt")
 
 
-        If result.Contains("Beginning Build Process") Then
+        If result.Length = 0 Then
+            'Node.js not detected, else it should throw an error
+            MsgBox("Node.js was not detected. Click OK to open the download page, install it then re-run Tishadow Assistant.", MsgBoxStyle.Critical)
+            Process.Start("https://nodejs.org/")
+            Application.Exit()
+        ElseIf result.Contains("Beginning Build Process") Then
             'All systems go
         ElseIf Not result.Contains("[ERROR]") Then
             'If user can not get this error then they don't have tishadow installed
@@ -51,7 +56,7 @@ Public Class frm_main
             If action = vbYes Then
                 Dim install = Process.Start("cmd", "/c npm install -g tishadow > TishadowInstallLog.txt")
                 install.WaitForExit()
-                Dim logMsg = MsgBox("Tishadow should now be installed. Please re-run Tishadow Asistant. If the install is still not detected, you may have to run this app as administrator." & vbNarrow & vbNewLine & "Would you like to view the log?", MsgBoxStyle.Information + vbYesNo)
+                Dim logMsg = MsgBox("Tishadow should now be installed. Please re-run Tishadow Asistant. If it is still not detected, you may have to run this app as administrator or install node.js (from https://nodejs.org/) then try again." & vbNewLine & vbNewLine & "Would you like to view the log?", MsgBoxStyle.Information + vbYesNo)
 
                 If logMsg = vbYes Then
                     Process.Start("TishadowInstallLog.txt")
