@@ -51,12 +51,13 @@ Public Class frm_main
             If action = vbYes Then
                 Dim install = Process.Start("cmd", "/c npm install -g tishadow > TishadowInstallLog.txt")
                 install.WaitForExit()
-                Dim logMsg = MsgBox("Tishadow should now be installed. Would you like to view the log?", MsgBoxStyle.Information + vbYesNo)
+                Dim logMsg = MsgBox("Tishadow should now be installed. Please re-run Tishadow Asistant. If the install is still not detected, you may have to run this app as administrator." & vbNarrow & vbNewLine & "Would you like to view the log?", MsgBoxStyle.Information + vbYesNo)
 
                 If logMsg = vbYes Then
-                    Process.Start("TishadowAssistantLog.txt")
-                    Application.Restart()
+                    Process.Start("TishadowInstallLog.txt")
                 End If
+
+                Application.Restart()
             End If
         ElseIf Not System.IO.File.Exists("tiapp.xml") Then
             'Check if this is a valid Titanium project folder
