@@ -49,8 +49,8 @@ Public Class frm_main
 
             'If they decide to install
             If action = vbYes Then
-                ' Dim install = Process.Start("cmd", "/c npm install -g tishadow > TishadowInstallLog.txt")
-                'install.WaitForExit()
+                Dim install = Process.Start("cmd", "/c npm install -g tishadow > TishadowInstallLog.txt")
+                install.WaitForExit()
                 Dim logMsg = MsgBox("Tishadow should now be installed. Would you like to view the log?", MsgBoxStyle.Information + vbYesNo)
 
                 If logMsg = vbYes Then
